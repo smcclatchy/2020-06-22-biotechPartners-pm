@@ -7,11 +7,11 @@ language: "en"
 latitude: "37.869061"        
 longitude: "-122.270462"       
 humandate: "June 22-July 2, 2020"  
-humantime: "1:00 - 2:30 pm"    
+humantime: "1:00 - 2:30 pm Pacific"    
 startdate: 2020-06-22      
 enddate: 2020-07-02       
 instructor: ["Sue McClatchy", "Chandra Sarkar", "Rohit Goswami", "Sayane Shome"]
-helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["smcclatchy1@gmail.com","second@example.org"]  
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -126,7 +126,7 @@ address.
 {% elsif online == "true_private" %}
 <p id="where">
   <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the infromation you will need to connect to this meeting.
+  The instructors will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
 
