@@ -12,8 +12,8 @@ startdate: 2020-06-22
 enddate: 2020-07-02       
 instructor: ["Sue McClatchy", "Chandra Sarkar", "Rohit Goswami", "Sayane Shome", "Luca Di Stasio"]
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["smcclatchy1@gmail.com","second@example.org"]  
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+email: ["smcclatchy1@gmail.com", "azamudio@biotechpartners.org", "sdoughty@biotechpartners.org"]  
+collaborative_notes: https://pad.carpentries.org/2020-06-22-biotechPartners-pm
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
